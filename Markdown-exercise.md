@@ -40,4 +40,36 @@ A powerful story that sheds light on difficult choices and the courage to break 
 ###by Kristin Hannah. This historical fiction novel tells the powerful story of two sisters in Nazi-occupied France, highlighting love, sacrifice, and resilience during World War II.  
 
 # Task 5: Image
+##![Descriptive Alt Text](https://github.com/user-attachments/assets/d5a262d0-4a7e-415c-af58-e93f758d0212)
+
+# Task 6: Blockquotes
+## > "The only way to do great work is to love what you do."  
+   > — Steve Jobs
+
+# Task7: Inline code & Code Blocks
+## Use the `print()` function to display output in Python.
+
+# Task 8: Tables
+
+| Language       |  Difficulty  |  Use Case      |
+|----------------|--------------|---------------|
+| Python         | Easy         | Data Science |
+| JavaScript     | Medium       | Web Development|
+| Java           | Hard         | Mobile Apps    |
+
+# Task 9: Task Lists
+##  ✅ New Year Resolutions  
+
+- [x] Start exercising  
+- [x] Read a new book  
+- [ ] Learn a new programming language  
+- [ ] Travel to a new place  
+- [ ] Eat healthier
+
+# Task 10:Footnotes
+##  Project Idea: Personal Budget Tracker  
+
+### A simple web app to track income and expenses, helping users manage their finances efficiently[^1].  
+
+#### [^1]: The app could include features like category-based tracking, monthly summaries, and data visualization.  
 
